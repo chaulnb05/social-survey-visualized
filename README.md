@@ -14,3 +14,10 @@ This option focuses on one statement at a time. Users can scroll through a list 
  ## Building of the app
 -  This is a single-file application, which means UI, data processing, and server functions are in one file - `app.R`.
 -  The reason why I chose this method is because this is a simple visualization app that can be done in a single-file method. However, for bigger and more complicated applications, having 2 separated files for UI and server are more suitable.
+
+## Data Source
+The dataset used to build this application is [Young People Survey](https://www.kaggle.com/datasets/miroslavsabo/young-people-survey) by Miroslav Sabo on Kaggle. The source is also referenced on the website in the `References` tab.
+
+
+## Note
+This is my final project for the **Data Visualization with R** course at RMIT University in May-June 2023.
